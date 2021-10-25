@@ -1,0 +1,11 @@
+Model Information:
+* title:	Epic Gogo-Kup
+* source:	https://sketchfab.com/3d-models/epic-gogo-kup-3d9420c789524fcf92059e843edaf85f
+* author:	allisondeboy (https://sketchfab.com/allisondeboy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Epic Gogo-Kup" (https://sketchfab.com/3d-models/epic-gogo-kup-3d9420c789524fcf92059e843edaf85f) by allisondeboy (https://sketchfab.com/allisondeboy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

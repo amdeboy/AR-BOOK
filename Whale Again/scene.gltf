@@ -1,0 +1,224 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 18306,
+      "max": [
+        97.0,
+        5.800000190734863,
+        11.0
+      ],
+      "min": [
+        -3.0,
+        -19.200000762939453,
+        -89.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 219672,
+      "componentType": 5126,
+      "count": 18306,
+      "max": [
+        0.993696391582489,
+        1.0,
+        0.9936962723731995
+      ],
+      "min": [
+        -0.9982412457466125,
+        -1.0,
+        -0.9988498687744141
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 53316,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 439344,
+      "componentType": 5126,
+      "count": 2579,
+      "max": [
+        76.3270034790039,
+        -0.0,
+        58.07600021362305
+      ],
+      "min": [
+        -47.02199935913086,
+        -49.369998931884766,
+        -66.05899810791016
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 470292,
+      "componentType": 5126,
+      "count": 2579,
+      "max": [
+        0.9994575381278992,
+        1.0,
+        0.9983295798301697
+      ],
+      "min": [
+        -0.9987033605575562,
+        -1.0,
+        -0.9998818635940552
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 213264,
+      "componentType": 5125,
+      "count": 11934,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "allisondeboy (https://sketchfab.com/allisondeboy)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/incredible-blorr-fulffy-1535d1a180d640de909460b10d3b526d",
+      "title": "Incredible Blorr-Fulffy"
+    },
+    "generator": "Sketchfab-11.90.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 261000,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 501240,
+      "byteOffset": 261000,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 762240,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "color_16768282",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          0.866667,
+          0.101961,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "color_3888547",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.231373,
+          0.333333,
+          0.639216,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        5.265764281574593e-17,
+        -1.5194655372531937e-16,
+        0.0,
+        -1.232595164407831e-32,
+        -0.9448692202568053,
+        -0.32744792103767417,
+        0.0,
+        -1.6081226229577292e-16,
+        0.32744792103767417,
+        -0.9448692202568053,
+        0.0,
+        -3.552713678800501e-15,
+        -30.983007431030273,
+        0.04193655401467589,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "tinker.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

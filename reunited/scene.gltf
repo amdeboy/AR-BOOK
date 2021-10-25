@@ -1,0 +1,224 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 18033,
+      "max": [
+        -1.3550000190734863,
+        10.40999984741211,
+        -33.979000091552734
+      ],
+      "min": [
+        -110.83999633789063,
+        -24.141000747680664,
+        -114.7300033569336
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 216396,
+      "componentType": 5126,
+      "count": 18033,
+      "max": [
+        0.9998299479484558,
+        0.986818790435791,
+        0.9662340879440308
+      ],
+      "min": [
+        -0.9940087199211121,
+        -0.9868226647377014,
+        -0.995368480682373
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 51696,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 432792,
+      "componentType": 5126,
+      "count": 7750,
+      "max": [
+        78.58899688720703,
+        -0.0,
+        97.99099731445313
+      ],
+      "min": [
+        -71.06300354003906,
+        -49.369998931884766,
+        -86.02799987792969
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 525792,
+      "componentType": 5126,
+      "count": 7750,
+      "max": [
+        0.9995542764663696,
+        1.0,
+        0.9991024136543274
+      ],
+      "min": [
+        -0.9997532367706299,
+        -1.0,
+        -0.9990974068641663
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 206784,
+      "componentType": 5125,
+      "count": 35748,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "allisondeboy (https://sketchfab.com/allisondeboy)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/reunited-8ad58069d10346169eb23c20da502922",
+      "title": "Reunited"
+    },
+    "generator": "Sketchfab-11.90.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 349776,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 618792,
+      "byteOffset": 349776,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 968568,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "color_14093196",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.843137,
+          0.0431373,
+          0.54902,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "color_3888547",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.231373,
+          0.333333,
+          0.639216,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.9999502301216125,
+        -3.6034156805325336e-16,
+        -0.009978348389267921,
+        0.0,
+        -3.5822039778921066e-16,
+        -1.0,
+        6.554611996396897e-16,
+        0.0,
+        -0.009978348389267921,
+        -6.518740548127372e-16,
+        -0.9999502301216125,
+        0.0,
+        -0.08431677520275116,
+        -27.84952545166016,
+        10.949998855590815,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "tinker.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

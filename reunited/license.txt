@@ -1,0 +1,11 @@
+Model Information:
+* title:	Reunited
+* source:	https://sketchfab.com/3d-models/reunited-8ad58069d10346169eb23c20da502922
+* author:	allisondeboy (https://sketchfab.com/allisondeboy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Reunited" (https://sketchfab.com/3d-models/reunited-8ad58069d10346169eb23c20da502922) by allisondeboy (https://sketchfab.com/allisondeboy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

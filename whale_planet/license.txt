@@ -1,0 +1,11 @@
+Model Information:
+* title:	Whale Planet
+* source:	https://sketchfab.com/3d-models/whale-planet-aba645f3999845d496f8700abcd3defc
+* author:	allisondeboy (https://sketchfab.com/allisondeboy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Whale Planet" (https://sketchfab.com/3d-models/whale-planet-aba645f3999845d496f8700abcd3defc) by allisondeboy (https://sketchfab.com/allisondeboy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
